@@ -1,0 +1,5 @@
+1. Use pandas for all data manipulation.
+2. Create at least three different types of aggretions.
+3. Implement data merging joining.
+4. Use pivot table for summarization.
+5. Create professional visualization.
